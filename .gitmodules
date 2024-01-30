@@ -1,0 +1,4 @@
+[submodule "calyx-servicios/update_list_price_subscription"]
+	path = calyx-servicios/update_list_price_subscription
+	url = git@github.com:calyx-servicios/update_list_price_subscription.git
+	branch = 16.0
