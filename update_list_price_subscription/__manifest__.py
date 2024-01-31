@@ -10,6 +10,7 @@
     "license": "AGPL-3",
     "category": "Sale",
     "version": "16.0.1.1.0",
+    "installable": True,
     "application": False,
     "depends": ["product", "base"],
     "data": [
