@@ -13,7 +13,7 @@ Update List Price Subscription
     :target: https://github.com/calyx-servicios/subscription.git
     :alt: calyx-servicios/subscription.git
 
-|badge1| |badge2| |badge3| 
+|badge1| |badge2| |badge3|
 
 This module ...
 
@@ -24,7 +24,7 @@ Install
 
 * Find module "update_list_price_subscription" > Press Install
 
-*
+* ...
 
 
 Known issues / Roadmap
@@ -49,7 +49,7 @@ Contributors
 ~~~~~~~~~~~~
 
 * `Calyx Servicios S.A. <https://odoo.calyx-cloud.com.ar/>`_
-  
+
   * Felipe Carlini
 
 Maintainers
